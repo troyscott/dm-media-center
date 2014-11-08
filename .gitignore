@@ -1,3 +1,7 @@
+# dm-media-center
+*.txt
+
+
 # Logs
 logs
 *.log

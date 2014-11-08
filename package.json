@@ -1,0 +1,22 @@
+{
+  "name": "dm-media-center",
+  "version": "1.0.0",
+  "description": "dm-media-center ===============",
+  "main": "dm-server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troyscott/dm-media-center.git"
+  },
+  "author": "Troy Scott",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/troyscott/dm-media-center/issues"
+  },
+  "homepage": "https://github.com/troyscott/dm-media-center",
+  "dependencies": {
+    "express": "^4.10.1"
+  }
+}
