@@ -1,0 +1,25 @@
+{
+  "name": "dm-media-center",
+  "version": "1.0.0",
+  "homepage": "https://github.com/troyscott/dm-media-center",
+  "authors": [
+    "Troy Scott <troys2005@gmail.com>"
+  ],
+  "main": "dm-server/server.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "NONE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dm-server/public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0"
+  }
+}
